@@ -1,4 +1,4 @@
-best_friend_name = "Sam"
+best_friend_name = "Sammy"
 
 if best_friend_name == "Sam"
     p "You're the best!"
