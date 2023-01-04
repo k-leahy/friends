@@ -1,5 +1,5 @@
-best_friend_name = "Sam"
-good_friend = "Ann"
+best_friend_name = "Sammy"
+good_friend = "Anne"
 
 if best_friend_name == "Sam"
     p "You're the best!"
